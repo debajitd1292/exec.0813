@@ -1,4 +1,4 @@
-const csvUrl = "YOUR_CSV_LINK";
+const csvUrl = "https://raw.githubusercontent.com/debajitd1292/ppu/main/data.csv";
 
 let employees = [];
 let filteredEmployees = [];

@@ -1,4 +1,4 @@
-const csvUrl = "https://raw.githubusercontent.com/debajitd1292/ppu/main/data.csv";
+const csvUrl = "https://raw.githubusercontent.com/debajitd1292/exec.0813/main/data.csv";
 
 let employees = [];
 let filteredEmployees = [];
